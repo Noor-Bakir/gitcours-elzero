@@ -1,2 +1,2 @@
-# gitcours-elzero
+# gitcourse-elzero
 for elzero web school git course
